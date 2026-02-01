@@ -1,4 +1,13 @@
 ## 📌 Project Overview
+
+![Excel](https://img.shields.io/badge/Excel-Data%20Analytics-blue)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive%20Insights-green)
+![PivotTables](https://img.shields.io/badge/PivotTables-%26%20Charts-yellow)
+![PowerQuery](https://img.shields.io/badge/PowerQuery-Data%20Prep-orange)
+![Customer Analytics](https://img.shields.io/badge/Customer-Analytics-red)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
 This project demonstrates an **end-to-end data analytics workflow** using **Microsoft Excel**. The objective was to transform a raw dataset of **1,000 customers** into a professional, interactive dashboard that identifies the demographic factors influencing bike purchases.  
 
 By cleaning the data and building dynamic visualisations, the project provides clear insights into how **income, age, and commute distance** impact consumer behaviour.
